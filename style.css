@@ -89,7 +89,7 @@ img {
 }
 
 /*DISPISITIVI FINO A 768PX*/
-@media all and(max-width:768px){
+@media all and (max-width:768px){
   .col-xs-1{
     width: calc(100% /12);
   }
